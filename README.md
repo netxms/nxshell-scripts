@@ -12,6 +12,10 @@ $ nxshell -H 127.0.0.1 -u admin script_name.py
 
 Check `nxshell -h` for detailed usage instructions.
 
+## bulk_import.py
+
+Create nodes in bulk.
+
 ## force_policy_installation.py
 
 Iterate over all templates and force deployment of configuration policies.
