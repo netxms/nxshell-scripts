@@ -12,6 +12,8 @@ $ nxshell -H 127.0.0.1 -u admin script_name.py
 
 Check `nxshell -h` for detailed usage instructions.
 
+Please note that jython supports only python 2.7, so no f-format and stuff.
+
 ## bulk_import.py
 
 Create nodes in bulk.
